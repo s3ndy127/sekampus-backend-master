@@ -1,0 +1,1 @@
+<a href="{{ url($crud->route.'/'.$entry->getKey() . '/showmenu') }}" class="btn btn-xs btn-default" data-button-type="show"><i class="fa fa-plus"></i> Lihat Menu</a>
